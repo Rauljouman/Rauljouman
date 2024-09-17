@@ -14,7 +14,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
-<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 200px></picture>
+<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 255px></picture>
 
 - :school: I am a `Junior` and student at [Prat Educació](https://www.prateducacio.com) in Barcelona.
 - :technologist: I'm currently `looking` for internships in backend or full-stack development.
