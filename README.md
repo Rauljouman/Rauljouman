@@ -24,8 +24,6 @@
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px"></picture> About me
 
-<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="253px"></picture>
-
 - 🎓 I’ve graduated in `Multiplatform App Development` at [Prat Educació](https://www.prateducacio.com), Barcelona.  
 - 💻 I'm focused on becoming a `Full Stack Developer`, working across both frontend and backend environments.  
 - 🚀 I'm passionate about building meaningful digital solutions, learning new technologies, and improving every day.  
