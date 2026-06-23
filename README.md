@@ -17,7 +17,7 @@
 - 🎓 Me he graduado en `Desarrollo de Aplicaciones Multiplataforma` en [Prat Educació](https://www.prateducacio.com), Barcelona.  
 - 💻 Estoy enfocado en convertirme en un `Desarrollador Full Stack`, trabajando tanto en el frontend como en el backend.  
 - 🚀 Me apasiona construir soluciones digitales que aporten valor real, aprender nuevas tecnologías y mejorar día a día.  
-- 🌐 Visita mi portafolio: [https://portafolio-kappa-rust.vercel.app/](https://portafolio-kappa-rust.vercel.app/)  
+- 🌐 Visita mi portafolio: [https://portafolio-raul-sable.vercel.app/](https://portafolio-raul-sable.vercel.app/)  
 - 📫 Puedes contactarme aquí: [rauljouman@gmail.com](mailto:rauljouman@gmail.com)  
 
 ---
@@ -27,7 +27,7 @@
 - 🎓 I’ve graduated in `Multiplatform App Development` at [Prat Educació](https://www.prateducacio.com), Barcelona.  
 - 💻 I'm focused on becoming a `Full Stack Developer`, working across both frontend and backend environments.  
 - 🚀 I'm passionate about building meaningful digital solutions, learning new technologies, and improving every day.  
-- 🌐 Check out my portfolio: [https://portafolio2-0-rose.vercel.app](https://portafolio2-0-rose.vercel.app)  
+- 🌐 Check out my portfolio: [https://portafolio-raul-sable.vercel.app/](https://portafolio-raul-sable.vercel.app/)  
 - 📫 You can reach me here: [rauljouman@gmail.com](mailto:rauljouman@gmail.com)  
 
 ---
