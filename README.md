@@ -30,27 +30,4 @@
 - 🌐 Check out my portfolio: [https://portafolio-raul-sable.vercel.app/](https://portafolio-raul-sable.vercel.app/)  
 - 📫 You can reach me here: [rauljouman@gmail.com](mailto:rauljouman@gmail.com)  
 
----
 
-## 📚 Actualmente aprendiendo
-
-Estoy mejorando mis habilidades como desarrollador full stack con foco en:
-
-- ⚛️ **React**: profundizando en componentes, hooks y buenas prácticas.  
-- 💼 **C#**: aprendiendo la sintaxis y lógica orientada a objetos con .NET.  
-- 🧩 **Proyecto actual**: desarrollo de un sistema CRM para gestión de clientes, oportunidades y tareas, con interfaz web moderna y base de datos conectada.
-
----
-
-## 📚 Currently learning
-
-I'm sharpening my skills as a full stack developer, focusing on:
-
-- ⚛️ **React**: deepening my understanding of components, hooks, and best practices.  
-- 💼 **C#**: learning object-oriented programming with .NET.  
-- 🧩 **Current project**: building a CRM system for managing clients, opportunities, and tasks — with a modern web interface and integrated database.
-
----
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
